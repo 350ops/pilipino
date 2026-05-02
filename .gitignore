@@ -5,10 +5,24 @@ dist/
 .expo/
 .expo-shared/
 web-build/
+build/
 *.jsbundle
 *.hbc
 *.hbc.map
 *.js.map
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / tool artifacts
+*.swp
+*.swo
+.cursor/
+.superpowers/
+.scrape-snapshots/
 
 # OS specific
 .DS_Store

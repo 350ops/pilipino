@@ -1,4 +1,4 @@
-import { useBusinessMode } from "@/app/contexts/BusinesModeContext";
+import { useBusinessMode } from "@/app/contexts/BusinessModeContext";
 import { Pressable, Text, View, Animated, Easing } from "react-native";
 import { Feather } from "@expo/vector-icons";
 import Icon from "./Icon";

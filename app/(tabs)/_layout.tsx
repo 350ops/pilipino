@@ -3,7 +3,7 @@ import { TabButton } from 'components/TabButton';
 import { Tabs, TabList, TabTrigger, TabSlot } from 'expo-router/ui';
 import { KeyboardAvoidingView, Platform, SafeAreaView, View } from 'react-native';
 import React from 'react';
-import { useBusinessMode } from '@/app/contexts/BusinesModeContext';
+import { useBusinessMode } from '@/app/contexts/BusinessModeContext';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 export default function Layout() {
