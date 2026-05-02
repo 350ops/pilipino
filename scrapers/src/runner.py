@@ -3,8 +3,6 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
-from pathlib import Path
-from typing import Iterable
 
 from scrapers.src.adapters.bdo import BDOAdapter
 from scrapers.src.adapters.bpi_buenamano import BPIBuenaManoAdapter
