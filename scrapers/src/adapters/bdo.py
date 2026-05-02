@@ -68,7 +68,8 @@ class BDOAdapter(Adapter):
             )
             page = await context.new_page()
             try:
-                await page.goto(RESULTS_URL, wait_until="networkidle", timeout=60_000)
+                await page.goto(RESULTS_URL, wait_until="domcontentloaded", timeout=60_000)
+                await page.wait_for_selector('a[href*="propertyCode="]', timeout=30_000)
                 await self._load_all_results(page)
                 html = await page.content()
                 await save_snapshot(
