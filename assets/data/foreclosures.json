@@ -1,0 +1,3655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_ac3a4c5b06c96f37bfd547b810396d77",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 29 BLK 25, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 29 BLK 25, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,570,000",
+        "location": "LOT 29 BLK 25, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2570000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.323758,
+          39.585157
+        ]
+      },
+      "properties": {
+        "id": "fp_0f36e8ffd2c867a25fcd27ce03384cad",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT WITH IMPROVEMENT at LOT 16, BLK 53, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 16, BLK 53, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,130,000",
+        "location": "LOT 16, BLK 53, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1130000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0303485,
+          14.5713083
+        ]
+      },
+      "properties": {
+        "id": "fp_ebd3dcf609473332080dd182d5b3d77e",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT NO. 3502, 35/F LIVINGSTONE TOWER, ACQUA PRIVATE RESIDENCES, CORONADO ST., BRGY. HULO, MANDALUYONG CITY, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Condo; Located at UNIT NO. 3502, 35/F LIVINGSTONE TOWER, ACQUA PRIVATE RESIDENCES, CORONADO ST., BRGY. HULO, MANDALUYONG CITY, METRO MANILA",
+        "location": "UNIT NO. 3502, 35/F LIVINGSTONE TOWER, ACQUA PRIVATE RESIDENCES, CORONADO ST., BRGY. HULO, MANDALUYONG CITY, METRO MANILA",
+        "price": null,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0474088,
+          14.8101978
+        ]
+      },
+      "properties": {
+        "id": "fp_6c8950c467e9d1e842052d742cf75986",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 5 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 5 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN; Price PHP 413,000",
+        "location": "LOT 5 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN",
+        "price": 413000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.858053,
+          10.307168
+        ]
+      },
+      "properties": {
+        "id": "fp_e829ed996c0984c042bce624ff2caed5",
+        "title": "Bank of Commerce Foreclosed Residential vacant lot at Lot 28 Blk 21, South Hills Subd., Brgy., Buhisan, Cebu City For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 28 Blk 21, South Hills Subd., Brgy., Buhisan, Cebu City; Price PHP 7,518,000",
+        "location": "Lot 28 Blk 21, South Hills Subd., Brgy., Buhisan, Cebu City",
+        "price": 7518000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "fp_a18c52ff1fa5f270de585bfa802faa4a",
+        "title": "Bank of Commerce Foreclosed PARKING SLOT at PARKING SLOT NO. 19 LEVEL 10 AIC-BURDUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNERS GARNET & SAPPHIRE ROADS, ORTIGAS CENTER For Negotiated Sale",
+        "description": "Unknown; Located at PARKING SLOT NO. 19 LEVEL 10 AIC-BURDUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNERS GARNET & SAPPHIRE ROADS, ORTIGAS CENTER; Price PHP 819,000",
+        "location": "PARKING SLOT NO. 19 LEVEL 10 AIC-BURDUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNERS GARNET & SAPPHIRE ROADS, ORTIGAS CENTER",
+        "price": 819000.0,
+        "type": "UNKNOWN",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.608995,
+          15.612253
+        ]
+      },
+      "properties": {
+        "id": "fp_603c314673d6a9e513b16b09354fa82a",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 8 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 8 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 375,000",
+        "location": "LOT 8 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 375000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8572845,
+          14.400675
+        ]
+      },
+      "properties": {
+        "id": "fp_67e42b406badabd82d81afdbd6992a10",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 2 BLK 90, PHASE 8, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 2 BLK 90, PHASE 8, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE; Price PHP 274,000",
+        "location": "LOT 2 BLK 90, PHASE 8, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE",
+        "price": 274000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.534794,
+          38.984093
+        ]
+      },
+      "properties": {
+        "id": "fp_af6ccfebb7438e464330371131bc2dd1",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 2 BLK 1, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 2 BLK 1, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,103,000",
+        "location": "LOT 2 BLK 1, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1103000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.949584,
+          14.32248
+        ]
+      },
+      "properties": {
+        "id": "fp_08094908f4f28158f9ffea2326ec835e",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 2-STOREY RESIDENTIAL BLDG. at LOT 30 BLK 26, FLORIDA ST., WASHINGTON PLACE, BRGY. SAMPALOC 2, DASMARINAS, CAVITE For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at LOT 30 BLK 26, FLORIDA ST., WASHINGTON PLACE, BRGY. SAMPALOC 2, DASMARINAS, CAVITE; Price PHP 3,935,000",
+        "location": "LOT 30 BLK 26, FLORIDA ST., WASHINGTON PLACE, BRGY. SAMPALOC 2, DASMARINAS, CAVITE",
+        "price": 3935000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7425272,
+          28.3575608
+        ]
+      },
+      "properties": {
+        "id": "fp_cb33480482ce32ea750eb87d84663163",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM UNIT at UNIT 803, GOTESCO REGENCYTWINS RESIDENTIAL CONDOMINIUM, NATIVIDAD ALMEDA LOPEZ ST. CORNER AYALA BLVD., ERMITA, MANILA CITY, METRO MANILA For Negotiated Sale",
+        "description": "Condo; Located at UNIT 803, GOTESCO REGENCYTWINS RESIDENTIAL CONDOMINIUM, NATIVIDAD ALMEDA LOPEZ ST. CORNER AYALA BLVD., ERMITA, MANILA CITY, METRO MANILA; Price PHP 15,173,000",
+        "location": "UNIT 803, GOTESCO REGENCYTWINS RESIDENTIAL CONDOMINIUM, NATIVIDAD ALMEDA LOPEZ ST. CORNER AYALA BLVD., ERMITA, MANILA CITY, METRO MANILA",
+        "price": 15173000.0,
+        "type": "CONDO",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9598169,
+          14.4596033
+        ]
+      },
+      "properties": {
+        "id": "fp_39c86d2a1c04c935244b3d176746bcb7",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 3 BLK. 2, GREEN VALLEYSUBD. BRGY. SAN NICOLAS, BACOOR, CAVITE For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at LOT 3 BLK. 2, GREEN VALLEYSUBD. BRGY. SAN NICOLAS, BACOOR, CAVITE; Price PHP 1,439,000",
+        "location": "LOT 3 BLK. 2, GREEN VALLEYSUBD. BRGY. SAN NICOLAS, BACOOR, CAVITE",
+        "price": 1439000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0450343,
+          14.4689691
+        ]
+      },
+      "properties": {
+        "id": "fp_e9cc6cd1a6856fffe15f4426fce54d75",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT 1818, 18/F, ST. TROPEZ BLDG., AZURE URBAN RESORT RESIDENCES, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Condo; Located at UNIT 1818, 18/F, ST. TROPEZ BLDG., AZURE URBAN RESORT RESIDENCES, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA",
+        "location": "UNIT 1818, 18/F, ST. TROPEZ BLDG., AZURE URBAN RESORT RESIDENCES, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA",
+        "price": null,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.770739,
+          10.761216
+        ]
+      },
+      "properties": {
+        "id": "fp_f682b0ca1ed98813363d1bd2733bbf28",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL/COMMERCIAL VACANT LOT at LOT 8 BLK 5, BRGYSAN ISIDRO, VICTORIA, ORIENTAL MINDORO (SITE II) For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at LOT 8 BLK 5, BRGYSAN ISIDRO, VICTORIA, ORIENTAL MINDORO (SITE II); Price PHP 960,000",
+        "location": "LOT 8 BLK 5, BRGYSAN ISIDRO, VICTORIA, ORIENTAL MINDORO (SITE II)",
+        "price": 960000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.075985,
+          6.904724
+        ]
+      },
+      "properties": {
+        "id": "fp_07030e85ce9f3a4357c1d829aabc8605",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at BLK 11, COUNTRYHOMES SUBD., BRGY. AYALA, ZAMBOANGA CITY(SITE IV), ZAMBOANGA DEL SUR For Negotiated Sale",
+        "description": "Residential Lot; Located at BLK 11, COUNTRYHOMES SUBD., BRGY. AYALA, ZAMBOANGA CITY(SITE IV), ZAMBOANGA DEL SUR; Price PHP 4,877,000",
+        "location": "BLK 11, COUNTRYHOMES SUBD., BRGY. AYALA, ZAMBOANGA CITY(SITE IV), ZAMBOANGA DEL SUR",
+        "price": 4877000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_ee11523788206b91496090f7760769f0",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 25 Blk 9, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 25 Blk 9, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu; Price PHP 1,391,000",
+        "location": "Lot 25 Blk 9, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu",
+        "price": 1391000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.049903,
+          14.6582249
+        ]
+      },
+      "properties": {
+        "id": "fp_78721ace482da5bce09147db92bd30fc",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL-COMMERCIAL CONDOMINIUM UNIT at UNIT P-1, WEST MANSION\u00e2\u0080\u0099S CONDOMINIUM, NO. 3 ZAMBOANGA ST., BRGY. NAYONG KAUNLARAN, QUEZON CITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT P-1, WEST MANSION\u00e2\u0080\u0099S CONDOMINIUM, NO. 3 ZAMBOANGA ST., BRGY. NAYONG KAUNLARAN, QUEZON CITY",
+        "location": "UNIT P-1, WEST MANSION\u00e2\u0080\u0099S CONDOMINIUM, NO. 3 ZAMBOANGA ST., BRGY. NAYONG KAUNLARAN, QUEZON CITY",
+        "price": null,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_1e5d1d0126c8eda6ab5a096c01638558",
+        "title": "Bank of Commerce Foreclosed Residential vacant lot at Lot 45 Blk 1, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 45 Blk 1, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu; Price PHP 2,490,000",
+        "location": "Lot 45 Blk 1, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu",
+        "price": 2490000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.008949,
+          14.6296434
+        ]
+      },
+      "properties": {
+        "id": "fp_6d3f4e51eca94e9252455603f9ff5794",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM UNIT at UNIT 323, 3/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT 323, 3/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "location": "UNIT 323, 3/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "price": null,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0474088,
+          14.8101978
+        ]
+      },
+      "properties": {
+        "id": "fp_f54e62e5e1dbfbd510daacdf7bb70c80",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT NO. 744, 7/F AMAIA STEPS ALTARAZA, ARIA BLDG., BRGY. TUNGKONG MANGGA, SAN JOSE DEL MONTE, BULACAN For Negotiated Sale",
+        "description": "Condo; Located at UNIT NO. 744, 7/F AMAIA STEPS ALTARAZA, ARIA BLDG., BRGY. TUNGKONG MANGGA, SAN JOSE DEL MONTE, BULACAN; Price PHP 2,990,000",
+        "location": "UNIT NO. 744, 7/F AMAIA STEPS ALTARAZA, ARIA BLDG., BRGY. TUNGKONG MANGGA, SAN JOSE DEL MONTE, BULACAN",
+        "price": 2990000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.85722,
+          14.88722
+        ]
+      },
+      "properties": {
+        "id": "fp_9950f96495da504733834914a56b1bfe",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 10 BLK 22, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 10 BLK 22, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,290,000",
+        "location": "LOT 10 BLK 22, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2290000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.536385,
+          38.984797
+        ]
+      },
+      "properties": {
+        "id": "fp_5a4c1b86f37d638926c5e81b5af2e9ca",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 2 BLK 10, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 2 BLK 10, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,394,000",
+        "location": "LOT 2 BLK 10, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1394000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0450343,
+          14.4689691
+        ]
+      },
+      "properties": {
+        "id": "fp_5a90a22f908b28e1f6c506a3da28e7fb",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM AND PARKING at UNIT 0519, 5/F, MAUI BLDG., THE AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE RD., BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA For Negotiated Sale",
+        "description": "Condo; Located at UNIT 0519, 5/F, MAUI BLDG., THE AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE RD., BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA; Price PHP 7,564,000",
+        "location": "UNIT 0519, 5/F, MAUI BLDG., THE AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE RD., BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA",
+        "price": 7564000.0,
+        "type": "CONDO",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.534957,
+          38.984173
+        ]
+      },
+      "properties": {
+        "id": "fp_5552640e7ff6ec6771dbee12be3d859f",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 24 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 24 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,056,000",
+        "location": "LOT 24 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1056000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.598087,
+          14.131582
+        ]
+      },
+      "properties": {
+        "id": "fp_9110c5b4645029dc48ec9e055df8ebee",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 2 BLK 6, MAYA-MAYA HILLS SUBD., BRGY. BALAYTIGUE, NASUGBU, BATANGAS For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 2 BLK 6, MAYA-MAYA HILLS SUBD., BRGY. BALAYTIGUE, NASUGBU, BATANGAS; Price PHP 10,374,000",
+        "location": "LOT 2 BLK 6, MAYA-MAYA HILLS SUBD., BRGY. BALAYTIGUE, NASUGBU, BATANGAS",
+        "price": 10374000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.85722,
+          14.88722
+        ]
+      },
+      "properties": {
+        "id": "fp_a936acf4e5d3ab32951aa4bb9d1e67d2",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 22 BLK 22, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 22 BLK 22, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,930,000",
+        "location": "LOT 22 BLK 22, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2930000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.89484,
+          7.923518
+        ]
+      },
+      "properties": {
+        "id": "fp_33a7f286388662fcfeee9c8ed7b63447",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL 3-STOREYRESIDENTIAL BLDG (50% COMPLETE) at LOT 26-B, 4TH EAST ST. CORNER 5TH ST., ROSARIO HEIGHTS SUBD., BRGY. TUBOD, ILIGAN CITY, LANAO DEL NORTE For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Unknown; Located at LOT 26-B, 4TH EAST ST. CORNER 5TH ST., ROSARIO HEIGHTS SUBD., BRGY. TUBOD, ILIGAN CITY, LANAO DEL NORTE; Price PHP 3,540,000",
+        "location": "LOT 26-B, 4TH EAST ST. CORNER 5TH ST., ROSARIO HEIGHTS SUBD., BRGY. TUBOD, ILIGAN CITY, LANAO DEL NORTE",
+        "price": 3540000.0,
+        "type": "UNKNOWN",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0579406,
+          14.1194475
+        ]
+      },
+      "properties": {
+        "id": "fp_9f422012f08968870189fbf4bacdf9ea",
+        "title": "Bank of Commerce Foreclosed VACANT LOT at LOT 4, BRGY. TRANCA, TALISAY, BATANGAS For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 4, BRGY. TRANCA, TALISAY, BATANGAS; Price PHP 30,020,000",
+        "location": "LOT 4, BRGY. TRANCA, TALISAY, BATANGAS",
+        "price": 30020000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5380249,
+          11.1225175
+        ]
+      },
+      "properties": {
+        "id": "fp_4a3f6fea877f1a539088260aa257da32",
+        "title": "Bank of Commerce Foreclosed Agricultural Lot at Lot 7384, Sitio Cubay, Poblacion, Bingawan (Calinog), Iloilo For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Agricultural Lot; Located at Lot 7384, Sitio Cubay, Poblacion, Bingawan (Calinog), Iloilo; Price PHP 8,407,000",
+        "location": "Lot 7384, Sitio Cubay, Poblacion, Bingawan (Calinog), Iloilo",
+        "price": 8407000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_67421280bd0c4616abdc3a8222dc83f7",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 3 BLK 12, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 3 BLK 12, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 3,450,000",
+        "location": "LOT 3 BLK 12, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 3450000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.61667,
+          13.93333
+        ]
+      },
+      "properties": {
+        "id": "fp_386d82ab30b0395130349562098e54dd",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 14, BLK 26, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 14, BLK 26, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 624,000",
+        "location": "LOT 14, BLK 26, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 624000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1305726,
+          8.1550421
+        ]
+      },
+      "properties": {
+        "id": "fp_bd51df31bb9924f7e9c680eb1978e4e4",
+        "title": "Bank of Commerce Foreclosed AGRICULTURAL LOT at LOT 197 BRGY. MANDAING, ANLUGAN & PARADISE CABANGLASAN, MALAYBALAY, BUKIDNON For Negotiated Sale",
+        "description": "Agricultural Lot; Located at LOT 197 BRGY. MANDAING, ANLUGAN & PARADISE CABANGLASAN, MALAYBALAY, BUKIDNON; Price PHP 3,116,000",
+        "location": "LOT 197 BRGY. MANDAING, ANLUGAN & PARADISE CABANGLASAN, MALAYBALAY, BUKIDNON",
+        "price": 3116000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_6e75a929a2754d0a98f6a5a595fc0f14",
+        "title": "Bank of Commerce Foreclosed Residential Lot with Improvement at Lot 27 Blk4, Villa Verna Subd., Bgy. Marigondon, Lapu-Lapu City, Cebu For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at Lot 27 Blk4, Villa Verna Subd., Bgy. Marigondon, Lapu-Lapu City, Cebu; Price PHP 7,833,000",
+        "location": "Lot 27 Blk4, Villa Verna Subd., Bgy. Marigondon, Lapu-Lapu City, Cebu",
+        "price": 7833000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.077202,
+          24.921136
+        ]
+      },
+      "properties": {
+        "id": "fp_027878bd093b6eed39bb109fdee3c2da",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 30 BLK 51, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 30 BLK 51, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,162,000",
+        "location": "LOT 30 BLK 51, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1162000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.988905,
+          14.531592
+        ]
+      },
+      "properties": {
+        "id": "fp_792e1e922df35bf776540d6eec56c3aa",
+        "title": "Bank of Commerce Foreclosed CONDOMINIUM PARKING SLOT at UNIT B22, THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT B22, THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "location": "UNIT B22, THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "price": null,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_85e94abbaee0c26ef16558773a4d39c0",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 6 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 6 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,560,000",
+        "location": "LOT 6 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2560000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0474088,
+          14.8101978
+        ]
+      },
+      "properties": {
+        "id": "fp_25bec8065d8693d7da4678133285f233",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 10 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 10 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN; Price PHP 791,000",
+        "location": "LOT 10 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN",
+        "price": 791000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0799849,
+          14.6082266
+        ]
+      },
+      "properties": {
+        "id": "fp_be1c961786de5c829076966e82c29e08",
+        "title": "Bank of Commerce Foreclosed CONDOMINIUM PARKING SLOT at PARKING SLOT NO. 52 6/F ONE EASTWOOD TOWER 1, EASTWOOD AVENUE, EASTWOOD CITY, LIBIS, QUEZON CITY, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 *** Under redemption",
+        "description": "Condo; Located at PARKING SLOT NO. 52 6/F ONE EASTWOOD TOWER 1, EASTWOOD AVENUE, EASTWOOD CITY, LIBIS, QUEZON CITY, METRO MANILA; Price PHP 1,290,000",
+        "location": "PARKING SLOT NO. 52 6/F ONE EASTWOOD TOWER 1, EASTWOOD AVENUE, EASTWOOD CITY, LIBIS, QUEZON CITY, METRO MANILA",
+        "price": 1290000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.73444,
+          13.13722
+        ]
+      },
+      "properties": {
+        "id": "fp_c204e17d2142f3453e61e57e08036271",
+        "title": "Bank of Commerce Foreclosed VACANT LOT at LOT 18420-F BRGY. PADANG, LEGAZPI CITY For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 18420-F BRGY. PADANG, LEGAZPI CITY; Price PHP 524,000",
+        "location": "LOT 18420-F BRGY. PADANG, LEGAZPI CITY",
+        "price": 524000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_91c794df74389e0c9a51454273f77999",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 23 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 23 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 3,250,000",
+        "location": "LOT 23 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 3250000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9911441,
+          10.204528
+        ]
+      },
+      "properties": {
+        "id": "fp_c69b33b3817b7294c58c41a3348eaa7e",
+        "title": "Bank of Commerce Foreclosed Vacant Lot at Lot 4-B, Regalado Street., Brgy. 6 (Poblacion), Isabela, Negros Occidental For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at Lot 4-B, Regalado Street., Brgy. 6 (Poblacion), Isabela, Negros Occidental; Price PHP 2,276,000",
+        "location": "Lot 4-B, Regalado Street., Brgy. 6 (Poblacion), Isabela, Negros Occidental",
+        "price": 2276000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.85722,
+          14.88722
+        ]
+      },
+      "properties": {
+        "id": "fp_59ced8d85b7644f02df9548bf3e1de74",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 2 BLK 20, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 2 BLK 20, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 4,601,000",
+        "location": "LOT 2 BLK 20, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 4601000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "fp_55a4907771319e99d370512aaf7b1019",
+        "title": "Bank of Commerce Foreclosed PARKING SLOT at PARKING SLOT NO. 27 LEVEL 10 AIC-BURDUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNERS GARNET & SAPPHIRE ROADS, ORTIGAS CENTER For Negotiated Sale",
+        "description": "Unknown; Located at PARKING SLOT NO. 27 LEVEL 10 AIC-BURDUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNERS GARNET & SAPPHIRE ROADS, ORTIGAS CENTER; Price PHP 819,000",
+        "location": "PARKING SLOT NO. 27 LEVEL 10 AIC-BURDUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNERS GARNET & SAPPHIRE ROADS, ORTIGAS CENTER",
+        "price": 819000.0,
+        "type": "UNKNOWN",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5985733,
+          15.6069315
+        ]
+      },
+      "properties": {
+        "id": "fp_c143f74640ccb6d8e3c3ff783c684b05",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 5 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 5 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 375,000",
+        "location": "LOT 5 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 375000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.562249,
+          -1.272554
+        ]
+      },
+      "properties": {
+        "id": "fp_07fb6ef55102b88745aa47c70b3358b5",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT WITH IMPROVEMENT at LOT 12, BLK 59, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 12, BLK 59, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,344,000",
+        "location": "LOT 12, BLK 59, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1344000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.803548,
+          10.0060783
+        ]
+      },
+      "properties": {
+        "id": "fp_98fc8bfa4cd5021df9ece3d403721265",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 4 Blk 7, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 4 Blk 7, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental; Price PHP 480,000",
+        "location": "Lot 4 Blk 7, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental",
+        "price": 480000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_aa0f4b18f0f3fc82a2c5dbac6909a860",
+        "title": "Bank of Commerce Foreclosed Residential vacant lot at Lot 6 Blk 30, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 6 Blk 30, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu; Price PHP 2,490,000",
+        "location": "Lot 6 Blk 30, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu",
+        "price": 2490000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.608995,
+          15.612253
+        ]
+      },
+      "properties": {
+        "id": "fp_1bb1c94fc3b4fef5d4755a0c7d632e31",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 4 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 4 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 375,000",
+        "location": "LOT 4 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 375000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.008949,
+          14.6296434
+        ]
+      },
+      "properties": {
+        "id": "fp_d4ad8380afe5eaa0e6a76c0e63ac2d16",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM UNIT at UNIT 404, 4/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT 404, 4/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "location": "UNIT 404, 4/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "price": null,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8598985,
+          14.8863156
+        ]
+      },
+      "properties": {
+        "id": "fp_e4f4b8e48b8356532ce4f70de7989352",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 4 BLK 23, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 4 BLK 23, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,560,000",
+        "location": "LOT 4 BLK 23, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2560000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0474088,
+          14.8101978
+        ]
+      },
+      "properties": {
+        "id": "fp_dc9b2476134f0ab25155eb148feaeaaf",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 12 BLK 12, NORTHWINDS SUBD., PHASE 8-A, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 12 BLK 12, NORTHWINDS SUBD., PHASE 8-A, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN; Price PHP 826,000",
+        "location": "LOT 12 BLK 12, NORTHWINDS SUBD., PHASE 8-A, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN",
+        "price": 826000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0449037,
+          14.4787515
+        ]
+      },
+      "properties": {
+        "id": "fp_098e9d7d0ecb0d7d4c78e8dc8814f21e",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT NO. 1501, 15/F ST. TROPEZ BLDG., AZURE URBAN RESORT RESIDENCES, KM 16 WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Condo; Located at UNIT NO. 1501, 15/F ST. TROPEZ BLDG., AZURE URBAN RESORT RESIDENCES, KM 16 WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA; Price PHP 9,481,000",
+        "location": "UNIT NO. 1501, 15/F ST. TROPEZ BLDG., AZURE URBAN RESORT RESIDENCES, KM 16 WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA",
+        "price": 9481000.0,
+        "type": "CONDO",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0474088,
+          14.8101978
+        ]
+      },
+      "properties": {
+        "id": "fp_42c26366a0475c9e9edfe833da6b98bc",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 8 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 8 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN; Price PHP 295,000",
+        "location": "LOT 8 BLK 16, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN",
+        "price": 295000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0283,
+          14.740261
+        ]
+      },
+      "properties": {
+        "id": "fp_8a56dd2f3d2a22af262c7ffd77425580",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT NO. 419, 4/F ARIA D BLDG., AMAIA STEPS NOVALICHES, BRGY. 170, DEPARO, CALOOCAN, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Condo; Located at UNIT NO. 419, 4/F ARIA D BLDG., AMAIA STEPS NOVALICHES, BRGY. 170, DEPARO, CALOOCAN, METRO MANILA; Price PHP 1,980,000",
+        "location": "UNIT NO. 419, 4/F ARIA D BLDG., AMAIA STEPS NOVALICHES, BRGY. 170, DEPARO, CALOOCAN, METRO MANILA",
+        "price": 1980000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45609,
+          14.81694
+        ]
+      },
+      "properties": {
+        "id": "fp_235ef569dded78a532817350aaa4033e",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 12 BLK 3, ST. PETER VILLAGE, BRGY. MABUCO, HERMOSA, BATAAN For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at LOT 12 BLK 3, ST. PETER VILLAGE, BRGY. MABUCO, HERMOSA, BATAAN; Price PHP 630,000",
+        "location": "LOT 12 BLK 3, ST. PETER VILLAGE, BRGY. MABUCO, HERMOSA, BATAAN",
+        "price": 630000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9064492,
+          14.8177897
+        ]
+      },
+      "properties": {
+        "id": "fp_9abf601f9e3449dc09d4758d764fd924",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at BLK. 3 LOT 14 MARIA MAGDALENA SUBD., BO. SAN JUAN, BALAGTAS, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at BLK. 3 LOT 14 MARIA MAGDALENA SUBD., BO. SAN JUAN, BALAGTAS, BULACAN; Price PHP 1,756,000",
+        "location": "BLK. 3 LOT 14 MARIA MAGDALENA SUBD., BO. SAN JUAN, BALAGTAS, BULACAN",
+        "price": 1756000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Metrobank",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.534957,
+          38.984173
+        ]
+      },
+      "properties": {
+        "id": "fp_1fe89bdaf80e857248751ab5f5ae36a9",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 16 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 16 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,061,000",
+        "location": "LOT 16 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1061000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0450343,
+          14.4689691
+        ]
+      },
+      "properties": {
+        "id": "fp_edeb034c7e5f866edf6dc7877a2406bf",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT NO. 0917, 9/F BAHAMAS BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Condo; Located at UNIT NO. 0917, 9/F BAHAMAS BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA; Price PHP 4,199,000",
+        "location": "UNIT NO. 0917, 9/F BAHAMAS BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA",
+        "price": 4199000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "fp_8fb991a8635bba00421c683b2e59a414",
+        "title": "Bank of Commerce Foreclosed OFFICE CONDOMINIUM UNIT at UNIT 13, 15TH FL., AIC-BURGUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNER GARNET & SAPPHIRE ROADS, ORTIGAS CENTER For Negotiated Sale",
+        "description": "Condo; Located at UNIT 13, 15TH FL., AIC-BURGUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNER GARNET & SAPPHIRE ROADS, ORTIGAS CENTER; Price PHP 9,621,000",
+        "location": "UNIT 13, 15TH FL., AIC-BURGUNDYEMPIRE TOWER IS SITUATED ALONG A.D.B. AVENUE CORNER GARNET & SAPPHIRE ROADS, ORTIGAS CENTER",
+        "price": 9621000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0450343,
+          14.4689691
+        ]
+      },
+      "properties": {
+        "id": "fp_95ce095b3f4856b0f108b9bb3e63711f",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT 1209, 12/F MAUI BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA For Negotiated Sale",
+        "description": "Condo; Located at UNIT 1209, 12/F MAUI BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA; Price PHP 5,025,000",
+        "location": "UNIT 1209, 12/F MAUI BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA",
+        "price": 5025000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.803548,
+          10.0060783
+        ]
+      },
+      "properties": {
+        "id": "fp_959b586e5c74fdda506fc185d607380a",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 14 Blk 10, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 14 Blk 10, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental; Price PHP 480,000",
+        "location": "Lot 14 Blk 10, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental",
+        "price": 480000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.61667,
+          13.93333
+        ]
+      },
+      "properties": {
+        "id": "fp_49741eb47283082f65770a0fcd3118ed",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 9 BLK 51, PUERTO DEL MAR SUBD.,BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 9 BLK 51, PUERTO DEL MAR SUBD.,BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,633,000",
+        "location": "LOT 9 BLK 51, PUERTO DEL MAR SUBD.,BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1633000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.830693,
+          14.316891
+        ]
+      },
+      "properties": {
+        "id": "fp_3afafd771e874fbfd07f7a398d1328eb",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 6 BLK 15, SADDLE & CLUBS LEISURE PARK, BRGY. TANAUAN, TANZA, CAVITE For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 6 BLK 15, SADDLE & CLUBS LEISURE PARK, BRGY. TANAUAN, TANZA, CAVITE; Price PHP 8,404,000",
+        "location": "LOT 6 BLK 15, SADDLE & CLUBS LEISURE PARK, BRGY. TANAUAN, TANZA, CAVITE",
+        "price": 8404000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.608995,
+          15.612253
+        ]
+      },
+      "properties": {
+        "id": "fp_d7b9eaac3f974498e03361e307875f24",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 29 BLK 11, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 29 BLK 11, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 375,000",
+        "location": "LOT 29 BLK 11, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 375000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.720544,
+          15.0643509
+        ]
+      },
+      "properties": {
+        "id": "fp_8b3c74506102afba24ba7b6f8c67c5e2",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 7 BLK 7, QUEENSBOROUGH NORTH SUBD., BRGY. SAN JOSE MATULID, MEXICO, PAMPANGA For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 7 BLK 7, QUEENSBOROUGH NORTH SUBD., BRGY. SAN JOSE MATULID, MEXICO, PAMPANGA; Price PHP 2,535,000",
+        "location": "LOT 7 BLK 7, QUEENSBOROUGH NORTH SUBD., BRGY. SAN JOSE MATULID, MEXICO, PAMPANGA",
+        "price": 2535000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.853888,
+          14.378833
+        ]
+      },
+      "properties": {
+        "id": "fp_1135bc88bafe29fc5f504855d065c4eb",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 9 BLK 9, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 9 BLK 9, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE; Price PHP 2,724,000",
+        "location": "LOT 9 BLK 9, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE",
+        "price": 2724000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1137004,
+          14.3146042
+        ]
+      },
+      "properties": {
+        "id": "fp_c31ab415a760ac50f2983d6dc0c102fe",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL TOWNHOUSE at LOT 9 BLK 11. HELCONIA ST., CIUDAD SE SAN JOSE, BRGY. BALIBAGO, STA. ROSA, LAGUNA For Negotiated Sale",
+        "description": "Townhouse; Located at LOT 9 BLK 11. HELCONIA ST., CIUDAD SE SAN JOSE, BRGY. BALIBAGO, STA. ROSA, LAGUNA; Price PHP 3,396,000",
+        "location": "LOT 9 BLK 11. HELCONIA ST., CIUDAD SE SAN JOSE, BRGY. BALIBAGO, STA. ROSA, LAGUNA",
+        "price": 3396000.0,
+        "type": "TOWNHOUSE",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_b3e872c87f6cae8db664754b482ec8e6",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 49 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 49 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 4,253,000",
+        "location": "LOT 49 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 4253000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0636867,
+          14.7836659
+        ]
+      },
+      "properties": {
+        "id": "fp_4b89b70ac005ed99133cc193fe31ae79",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 17 BLK 8, NORTHWINDS SUBD., PHASE 8-B, BRGY. STO. CRISTO, SJDM, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 17 BLK 8, NORTHWINDS SUBD., PHASE 8-B, BRGY. STO. CRISTO, SJDM, BULACAN; Price PHP 354,000",
+        "location": "LOT 17 BLK 8, NORTHWINDS SUBD., PHASE 8-B, BRGY. STO. CRISTO, SJDM, BULACAN",
+        "price": 354000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_eff6846926014237e99edf34ea783a80",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 5 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 5 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 3,040,000",
+        "location": "LOT 5 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 3040000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.936085,
+          8.757222
+        ]
+      },
+      "properties": {
+        "id": "fp_f6c48c5a9ac91fba2a74478c6f9be80e",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 9 BLK 2 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 9 BLK 2 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL; Price PHP 2,890,000",
+        "location": "LOT 9 BLK 2 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL",
+        "price": 2890000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.853888,
+          14.378833
+        ]
+      },
+      "properties": {
+        "id": "fp_baa6dbdfaa88949520b19fbc455da7e5",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 8 BLK 34, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 8 BLK 34, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE; Price PHP 2,640,000",
+        "location": "LOT 8 BLK 34, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE",
+        "price": 2640000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.936085,
+          8.757222
+        ]
+      },
+      "properties": {
+        "id": "fp_6806474053946baa2d8b6b4231e46de3",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 17 BLK 9 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 17 BLK 9 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL; Price PHP 2,880,000",
+        "location": "LOT 17 BLK 9 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL",
+        "price": 2880000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.61667,
+          13.93333
+        ]
+      },
+      "properties": {
+        "id": "fp_645fd8b451d19ab3d1473a2a1b3a6c13",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 1 BLK 53, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 1 BLK 53, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,072,000",
+        "location": "LOT 1 BLK 53, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1072000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.608995,
+          15.612253
+        ]
+      },
+      "properties": {
+        "id": "fp_cd478ca9980c7a5c6698007456069df7",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 16 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 16 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 375,000",
+        "location": "LOT 16 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 375000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.008949,
+          14.6296434
+        ]
+      },
+      "properties": {
+        "id": "fp_a279e2061e3b13cb1e9633a49889ee47",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM UNIT at UNIT 521 I, 5/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT 521 I, 5/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "location": "UNIT 521 I, 5/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "price": null,
+        "type": "CONDO",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5985733,
+          15.6069315
+        ]
+      },
+      "properties": {
+        "id": "fp_d12fe1bfc455e70e92218675eb5e3c60",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 1 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 1 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 513,000",
+        "location": "LOT 1 BLK 10, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 513000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.6789167,
+          9.9268706
+        ]
+      },
+      "properties": {
+        "id": "fp_61c045a5523954e78bc0e7b804ba805a",
+        "title": "Bank of Commerce Foreclosed Agricultural Lot at Lot 579 Sitio Luyang, Brgy. Guiljungan, Cauayan, Negros Occidental For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Agricultural Lot; Located at Lot 579 Sitio Luyang, Brgy. Guiljungan, Cauayan, Negros Occidental; Price PHP 8,045,000",
+        "location": "Lot 579 Sitio Luyang, Brgy. Guiljungan, Cauayan, Negros Occidental",
+        "price": 8045000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Metrobank",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5980868,
+          14.1315817
+        ]
+      },
+      "properties": {
+        "id": "fp_720aa906adfb5e91ab2b6f0f329b9d94",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 11 BLK 6, MAYA-MAYA HILLS SUBD., BRGY. BALAYTIGUE, NASUGBU, BATANGAS For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 11 BLK 6, MAYA-MAYA HILLS SUBD., BRGY. BALAYTIGUE, NASUGBU, BATANGAS; Price PHP 8,721,000",
+        "location": "LOT 11 BLK 6, MAYA-MAYA HILLS SUBD., BRGY. BALAYTIGUE, NASUGBU, BATANGAS",
+        "price": 8721000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0303485,
+          14.5713083
+        ]
+      },
+      "properties": {
+        "id": "fp_aeeb77441810e87884dca2e4ac194f5e",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT NO. 3715, 37/F, LIVINGSTONE TOWER, ACQUA PRIVATE RESIDENCES, CORONADO ST., BRGY. HULO, MANDALUYONG CITY, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Condo; Located at UNIT NO. 3715, 37/F, LIVINGSTONE TOWER, ACQUA PRIVATE RESIDENCES, CORONADO ST., BRGY. HULO, MANDALUYONG CITY, METRO MANILA; Price PHP 4,492,000",
+        "location": "UNIT NO. 3715, 37/F, LIVINGSTONE TOWER, ACQUA PRIVATE RESIDENCES, CORONADO ST., BRGY. HULO, MANDALUYONG CITY, METRO MANILA",
+        "price": 4492000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.008949,
+          14.6296434
+        ]
+      },
+      "properties": {
+        "id": "fp_819e39d6d11e3def052c341a7092daf1",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM UNIT at UNIT 217, 2/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT 217, 2/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "location": "UNIT 217, 2/F THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "price": null,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7517383,
+          13.1686436
+        ]
+      },
+      "properties": {
+        "id": "fp_f451828f8df52027f7118c86b60d19d1",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED 2-STOREY RESIDENTIAL BLDG. at LOT 5604-B-6-C, PUROK 5, BRGY. RAWIS, LEGASPI CITY, ALBAY For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 5604-B-6-C, PUROK 5, BRGY. RAWIS, LEGASPI CITY, ALBAY; Price PHP 4,661,000",
+        "location": "LOT 5604-B-6-C, PUROK 5, BRGY. RAWIS, LEGASPI CITY, ALBAY",
+        "price": 4661000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.187567,
+          34.812017
+        ]
+      },
+      "properties": {
+        "id": "fp_7a09b7080b15db04ce25ded3a51cf88a",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 2, BLK 25, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 2, BLK 25, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 648,000",
+        "location": "LOT 2, BLK 25, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 648000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.535118,
+          38.984254
+        ]
+      },
+      "properties": {
+        "id": "fp_3905a9edb50863bfbd4f4892499f9afa",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 9 BLK 5, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 9 BLK 5, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 2,023,000",
+        "location": "LOT 9 BLK 5, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 2023000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8106862,
+          14.8401257
+        ]
+      },
+      "properties": {
+        "id": "fp_e3e3600aaa484e346198dcd4fee8930f",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 10 BLK 6, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 10 BLK 6, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN; Price PHP 732,000",
+        "location": "LOT 10 BLK 6, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN",
+        "price": 732000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0300605,
+          14.6310424
+        ]
+      },
+      "properties": {
+        "id": "fp_f0076f5980be06c6169ea3049d753f53",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 2-STOREY RESIDENTIAL BLDG. at NO. 34, SCOUT DELGADO ST., BRGY. LAGING HANDA, QUEZON CITY, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at NO. 34, SCOUT DELGADO ST., BRGY. LAGING HANDA, QUEZON CITY, METRO MANILA; Price PHP 68,469,000",
+        "location": "NO. 34, SCOUT DELGADO ST., BRGY. LAGING HANDA, QUEZON CITY, METRO MANILA",
+        "price": 68469000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5985733,
+          15.6069315
+        ]
+      },
+      "properties": {
+        "id": "fp_8292719a8dd26183cab7a3842efa5929",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 6 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 6 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 375,000",
+        "location": "LOT 6 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 375000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0764343,
+          14.5605166
+        ]
+      },
+      "properties": {
+        "id": "fp_025e813803da5754c1ce7c7eb868e6f0",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM UNIT at UNIT 719, ESPERANZA RESIDENCE, AMAIA STEPS PHASE IB, BRGY. SAN MIGUEL, PASIG, METRO MANILA For Negotiated Sale",
+        "description": "Condo; Located at UNIT 719, ESPERANZA RESIDENCE, AMAIA STEPS PHASE IB, BRGY. SAN MIGUEL, PASIG, METRO MANILA; Price PHP 5,245,000",
+        "location": "UNIT 719, ESPERANZA RESIDENCE, AMAIA STEPS PHASE IB, BRGY. SAN MIGUEL, PASIG, METRO MANILA",
+        "price": 5245000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.608995,
+          15.612253
+        ]
+      },
+      "properties": {
+        "id": "fp_f3e7518e4dfca8388352b394ca088477",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 13 BLK 11, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 13 BLK 11, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 375,000",
+        "location": "LOT 13 BLK 11, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 375000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0498402,
+          14.6725961
+        ]
+      },
+      "properties": {
+        "id": "fp_6f97c065d074f5b84d6ceb3b5353bedc",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT WITH STRUCTURE at LOT 8 BLK 5, UP SITE SUBD., AREA V, VETERANS VILLAGE, BRGY. PASONG TAMO, TANDANG SORA, QUEZON CITY, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at LOT 8 BLK 5, UP SITE SUBD., AREA V, VETERANS VILLAGE, BRGY. PASONG TAMO, TANDANG SORA, QUEZON CITY, METRO MANILA; Price PHP 6,534,000",
+        "location": "LOT 8 BLK 5, UP SITE SUBD., AREA V, VETERANS VILLAGE, BRGY. PASONG TAMO, TANDANG SORA, QUEZON CITY, METRO MANILA",
+        "price": 6534000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0450343,
+          14.4689691
+        ]
+      },
+      "properties": {
+        "id": "fp_12ddc2b68ebed4da995e6038bd9c4f63",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT 1530, 15/F POSITANO TOWER, THE AZURE URBAN RESORT RESIDENCES, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 *** Under redemption",
+        "description": "Condo; Located at UNIT 1530, 15/F POSITANO TOWER, THE AZURE URBAN RESORT RESIDENCES, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA; Price PHP 4,108,000",
+        "location": "UNIT 1530, 15/F POSITANO TOWER, THE AZURE URBAN RESORT RESIDENCES, WEST SERVICE ROAD, BRGY. MARCELO GREEN, PARANAQUE, METRO MANILA",
+        "price": 4108000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.344662,
+          40.459877
+        ]
+      },
+      "properties": {
+        "id": "fp_6cae43110e47e403a5bcb111819ac1f8",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 18 BLK 2 PH 1, NORTHRIDGE HEIGHTS SUBD., BRGY. STO. CRISTO, SJDM, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 18 BLK 2 PH 1, NORTHRIDGE HEIGHTS SUBD., BRGY. STO. CRISTO, SJDM, BULACAN; Price PHP 668,000",
+        "location": "LOT 18 BLK 2 PH 1, NORTHRIDGE HEIGHTS SUBD., BRGY. STO. CRISTO, SJDM, BULACAN",
+        "price": 668000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.767686,
+          14.307138
+        ]
+      },
+      "properties": {
+        "id": "fp_1f58fe4b5237447088cb404ab1bfd6d9",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 5 BLK 126, SADDLE & CLUBS LEISURE PARK, BRGY. TANAUAN, TANZA, CAVITE For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 5 BLK 126, SADDLE & CLUBS LEISURE PARK, BRGY. TANAUAN, TANZA, CAVITE; Price PHP 2,640,000",
+        "location": "LOT 5 BLK 126, SADDLE & CLUBS LEISURE PARK, BRGY. TANAUAN, TANZA, CAVITE",
+        "price": 2640000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_d6343c474eb3f564b3df58141a95cc92",
+        "title": "Bank of Commerce Foreclosed Residential lot improved with 4-storey residential bldg. at Lot 18 Blk 3, South Hills Subd., Brgy., Buhisan, Cebu City For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 18 Blk 3, South Hills Subd., Brgy., Buhisan, Cebu City; Price PHP 3,150,000",
+        "location": "Lot 18 Blk 3, South Hills Subd., Brgy., Buhisan, Cebu City",
+        "price": 3150000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.185904,
+          -33.053823
+        ]
+      },
+      "properties": {
+        "id": "fp_fd7c40651cfd4fe4ee8476bcff29cc9a",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 42, BLK 21, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 42, BLK 21, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 624,000",
+        "location": "LOT 42, BLK 21, PUERTO DEL MAR SUBD., BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 624000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_dce4b168db9be8b0a9badf6cebf2324e",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 26 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 26 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,750,000",
+        "location": "LOT 26 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2750000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_2d0b1c7bd8a0444f71fd3e4388d0c6e1",
+        "title": "Bank of Commerce Foreclosed Residential vacant lot at Lot 44 Blk 1, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 44 Blk 1, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu; Price PHP 1,627,000",
+        "location": "Lot 44 Blk 1, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu",
+        "price": 1627000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.323758,
+          39.585157
+        ]
+      },
+      "properties": {
+        "id": "fp_2b7e686ee764594931b0db33d59cd7e0",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT WITH IMPROVEMENT at LOT 17, BLK 53, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 17, BLK 53, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,130,000",
+        "location": "LOT 17, BLK 53, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1130000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8886466,
+          17.1486341
+        ]
+      },
+      "properties": {
+        "id": "fp_aaaf249223d4f8406ed2e995929791c2",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH TWO-STOREY RESIDENTIAL BLDG. AND SARI-SARI STRORE at ANDARAYAN ST. COR. E. NAVARRO ST., BRGY. ALINGUIGAN 2, ILAGAN, ISABELA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at ANDARAYAN ST. COR. E. NAVARRO ST., BRGY. ALINGUIGAN 2, ILAGAN, ISABELA; Price PHP 5,102,000",
+        "location": "ANDARAYAN ST. COR. E. NAVARRO ST., BRGY. ALINGUIGAN 2, ILAGAN, ISABELA",
+        "price": 5102000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_30bba0e739115c8ee7c29f53e9a5cbc6",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 52 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 52 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu; Price PHP 2,862,000",
+        "location": "Lot 52 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu",
+        "price": 2862000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.936085,
+          8.757222
+        ]
+      },
+      "properties": {
+        "id": "fp_d1e7672423c2278bf68368b311ecb24a",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 4 BLK 6 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 4 BLK 6 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL; Price PHP 2,508,000",
+        "location": "LOT 4 BLK 6 PH 2-C, MOUNTAIN MEADOWS SUBD., BRGY. GUSA, CAGAYAN DE ORO CITY, MISAMIS ORIENTAL",
+        "price": 2508000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "fp_9dac381c30f78f57038485f53c545ff7",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT 2431, 24/F AMAIA SKIES AVENIDA TOWER 1, BRGY. 600, ZONE 59, SANTA CRUZ, MANILA CITY, METRO MANILA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Condo; Located at UNIT 2431, 24/F AMAIA SKIES AVENIDA TOWER 1, BRGY. 600, ZONE 59, SANTA CRUZ, MANILA CITY, METRO MANILA; Price PHP 3,107,000",
+        "location": "UNIT 2431, 24/F AMAIA SKIES AVENIDA TOWER 1, BRGY. 600, ZONE 59, SANTA CRUZ, MANILA CITY, METRO MANILA",
+        "price": 3107000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.534957,
+          38.984173
+        ]
+      },
+      "properties": {
+        "id": "fp_927077842aa8d37fead002d5f4c9c7d7",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 22 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 22 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,061,000",
+        "location": "LOT 22 BLK 3, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1061000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_8df763987846708ce5fb1299285260a3",
+        "title": "Bank of Commerce Foreclosed Residential vacant lot at Lot 29 Blk 10, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 29 Blk 10, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu; Price PHP 2,490,000",
+        "location": "Lot 29 Blk 10, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu",
+        "price": 2490000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8572845,
+          14.400675
+        ]
+      },
+      "properties": {
+        "id": "fp_eb1fd5fc94b0926e6caeec78f50549f8",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 5 BLK 91, PHASE 7, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 5 BLK 91, PHASE 7, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE; Price PHP 322,000",
+        "location": "LOT 5 BLK 91, PHASE 7, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE",
+        "price": 322000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.988905,
+          14.531592
+        ]
+      },
+      "properties": {
+        "id": "fp_18934f76850a55b542213bf411f08799",
+        "title": "Bank of Commerce Foreclosed CONDOMINIUM PARKING SLOT at UNIT B20, THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT B20, THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "location": "UNIT B20, THE STEPS CONDOMINIUM, 8TH STO. DOMINGO PLACE, CLUSTER 1, DON MANUEL AGREGADO COR. BIAK NA BATO STS., BRGY. STO. DOMINGO, STA. MESA HEIGHTS, QUEZON CITY",
+        "price": null,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_af64ef270a07b2651940e793b8c1235c",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 29 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 29 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu; Price PHP 1,339,000",
+        "location": "Lot 29 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu",
+        "price": 1339000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_6584cdf930d1e29f83eb5c12e2533fb0",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 1 BLK 20, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 1 BLK 20, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 4,152,000",
+        "location": "LOT 1 BLK 20, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 4152000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "fp_c903dc747c07c13a68cdfc1785036974",
+        "title": "Bank of Commerce Foreclosed Agricultural Lot at Lot 1, Plan Psu-61530 & Plan Psu-157807, Brgy. Nalumsan (Bolo), Carles, Iloilo For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Agricultural Lot; Located at Lot 1, Plan Psu-61530 & Plan Psu-157807, Brgy. Nalumsan (Bolo), Carles, Iloilo; Price PHP 33,565,000",
+        "location": "Lot 1, Plan Psu-61530 & Plan Psu-157807, Brgy. Nalumsan (Bolo), Carles, Iloilo",
+        "price": 33565000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_1d34701a4051953860f35f831715931c",
+        "title": "Bank of Commerce Foreclosed Residential vacant lot at Lot 1 Blk 10, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 1 Blk 10, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu; Price PHP 3,276,000",
+        "location": "Lot 1 Blk 10, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu",
+        "price": 3276000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9825559,
+          14.3729143
+        ]
+      },
+      "properties": {
+        "id": "fp_dab7864091984d7992b86b328fec8fb8",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 4 Blk 4, Villa Verna Subdivision, Bo. Bulacao, Talisay City, Cebu For Negotiated Sale \u00e2\u0080\u0093 ** With pending case",
+        "description": "Residential Lot; Located at Lot 4 Blk 4, Villa Verna Subdivision, Bo. Bulacao, Talisay City, Cebu; Price PHP 1,250,000",
+        "location": "Lot 4 Blk 4, Villa Verna Subdivision, Bo. Bulacao, Talisay City, Cebu",
+        "price": 1250000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_4ab3a98415df595e877b20d2c9e8e872",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 13 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 13 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,520,000",
+        "location": "LOT 13 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2520000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.803548,
+          10.0060783
+        ]
+      },
+      "properties": {
+        "id": "fp_75ac7abfbd32db7927ee5e0a6a967858",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 22 Blk 7, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 22 Blk 7, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental; Price PHP 504,000",
+        "location": "Lot 22 Blk 7, Villa San Jose Subd., Brgy. Talubangi, Kabankalan, Negros Occidental",
+        "price": 504000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9763,
+          10.8003
+        ]
+      },
+      "properties": {
+        "id": "fp_f4bfe547acbaf4ec5949b087fe12675c",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 376 Sitio Bera\u00c3\u00b1o Bgy. Lantad, Silay City, Negros Occidental For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at Lot 376 Sitio Bera\u00c3\u00b1o Bgy. Lantad, Silay City, Negros Occidental; Price PHP 3,773,000",
+        "location": "Lot 376 Sitio Bera\u00c3\u00b1o Bgy. Lantad, Silay City, Negros Occidental",
+        "price": 3773000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.853888,
+          14.378833
+        ]
+      },
+      "properties": {
+        "id": "fp_ed972258d540e458b0e22de06fb15d4a",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 54 BLK 13, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 54 BLK 13, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE; Price PHP 1,980,000",
+        "location": "LOT 54 BLK 13, SADDLE & CLUBS LEISURE PARK, BRGY. TRES CRUSES, NAIC, CAVITE",
+        "price": 1980000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.378854,
+          33.970968
+        ]
+      },
+      "properties": {
+        "id": "fp_b1a390421a7b2ed286a7fdfa05329c22",
+        "title": "Bank of Commerce Foreclosed AGRICULTURAL LOT at LOT 3971-J GUINOYORAN, VALENCIA, BUKIDNON (SITE II) For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Agricultural Lot; Located at LOT 3971-J GUINOYORAN, VALENCIA, BUKIDNON (SITE II); Price PHP 1,603,000",
+        "location": "LOT 3971-J GUINOYORAN, VALENCIA, BUKIDNON (SITE II)",
+        "price": 1603000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8598985,
+          14.8863156
+        ]
+      },
+      "properties": {
+        "id": "fp_ff571a2771a0f1ec26e35eba1b9daa8d",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 8 BLK 24, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 8 BLK 24, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,520,000",
+        "location": "LOT 8 BLK 24, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2520000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_4f931b7eba8c2c42543743083ad1af71",
+        "title": "Bank of Commerce Foreclosed Residential vacant lot at Lot 17 Blk 14, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 17 Blk 14, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu; Price PHP 3,150,000",
+        "location": "Lot 17 Blk 14, South Hills Subd., Brgy., Buhisan, Cebu City, Cebu",
+        "price": 3150000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.438432,
+          42.9323659
+        ]
+      },
+      "properties": {
+        "id": "fp_8b47a22b7b3ce3a416049e85573ce86c",
+        "title": "Bank of Commerce Foreclosed AGRICULTURAL LOT at LOT 3971-D GUINOYORAN, VALENCIA, BUKIDNON (SITE II) For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Agricultural Lot; Located at LOT 3971-D GUINOYORAN, VALENCIA, BUKIDNON (SITE II); Price PHP 1,257,000",
+        "location": "LOT 3971-D GUINOYORAN, VALENCIA, BUKIDNON (SITE II)",
+        "price": 1257000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0068203,
+          7.7548448
+        ]
+      },
+      "properties": {
+        "id": "fp_5e63ae8ca3080c6daa0570c2220f3df0",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOTS WITH RESIDENTIAL BLDG. at LOTS 2086 & 3585, EXT., SOUTH POBLACION,MARAMAG, BUKIDNON For Negotiated Sale \u00e2\u0080\u0093 ** With pending case",
+        "description": "Residential Lot; Located at LOTS 2086 & 3585, EXT., SOUTH POBLACION,MARAMAG, BUKIDNON; Price PHP 6,707,000",
+        "location": "LOTS 2086 & 3585, EXT., SOUTH POBLACION,MARAMAG, BUKIDNON",
+        "price": 6707000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.960759,
+          10.367498
+        ]
+      },
+      "properties": {
+        "id": "fp_a1cd2d6bdfaaba612e1055c62b572aa5",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 2-STOREY RESIDENTIAL TOWNHOUSE at LOT 12 BLK 6, ROAD LOT 8, ANAMI HOMES NORTH SUBD., BRGY. JUGAN, CONSOLACION, CEBU For Negotiated Sale",
+        "description": "Townhouse; Located at LOT 12 BLK 6, ROAD LOT 8, ANAMI HOMES NORTH SUBD., BRGY. JUGAN, CONSOLACION, CEBU; Price PHP 3,116,000",
+        "location": "LOT 12 BLK 6, ROAD LOT 8, ANAMI HOMES NORTH SUBD., BRGY. JUGAN, CONSOLACION, CEBU",
+        "price": 3116000.0,
+        "type": "TOWNHOUSE",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1067616,
+          14.2973181
+        ]
+      },
+      "properties": {
+        "id": "fp_a9601c313e32a6a0c44bbe01fd2f8e86",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT EM 415, 4/F EL MONTALVO BLDG., SAN JOSE RESIDENCIAS, BRGY. BALIBAGO, STA. ROSA, LAGUNA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Condo; Located at UNIT EM 415, 4/F EL MONTALVO BLDG., SAN JOSE RESIDENCIAS, BRGY. BALIBAGO, STA. ROSA, LAGUNA; Price PHP 2,280,000",
+        "location": "UNIT EM 415, 4/F EL MONTALVO BLDG., SAN JOSE RESIDENCIAS, BRGY. BALIBAGO, STA. ROSA, LAGUNA",
+        "price": 2280000.0,
+        "type": "CONDO",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8500655,
+          14.8797645
+        ]
+      },
+      "properties": {
+        "id": "fp_b51f007904ecb1eb7d62bdce02893f6a",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 22 BLK 21, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 22 BLK 21, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,380,000",
+        "location": "LOT 22 BLK 21, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2380000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8598985,
+          14.8863156
+        ]
+      },
+      "properties": {
+        "id": "fp_b99535374a4aef2b1e572d97234ad290",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 2 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 2 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 5,704,000",
+        "location": "LOT 2 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 5704000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "fp_ec8fc976edb104e7ceb28212d747ad9c",
+        "title": "Bank of Commerce Foreclosed COMMERCIAL CONDOMINIUM UNIT at UNIT 12-3F, EGI RUFINO PLAZA CONDOMINIUM COMPLEX, TAFT AVE. CORNER SEN. GIL PUYAT AVE & A. LUNA ST., BRGY. STA. CLARA, PASAYCITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT 12-3F, EGI RUFINO PLAZA CONDOMINIUM COMPLEX, TAFT AVE. CORNER SEN. GIL PUYAT AVE & A. LUNA ST., BRGY. STA. CLARA, PASAYCITY; Price PHP 3,415,000",
+        "location": "UNIT 12-3F, EGI RUFINO PLAZA CONDOMINIUM COMPLEX, TAFT AVE. CORNER SEN. GIL PUYAT AVE & A. LUNA ST., BRGY. STA. CLARA, PASAYCITY",
+        "price": 3415000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0474088,
+          14.8101978
+        ]
+      },
+      "properties": {
+        "id": "fp_838dbaa145cf9a144c38a478751f396e",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 6 BLK 11, NORTHWINDS SUBD., PHASE 4-A, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 6 BLK 11, NORTHWINDS SUBD., PHASE 4-A, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN; Price PHP 891,000",
+        "location": "LOT 6 BLK 11, NORTHWINDS SUBD., PHASE 4-A, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN",
+        "price": 891000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0721444,
+          14.8132506
+        ]
+      },
+      "properties": {
+        "id": "fp_2559e14a8a7d1e54a1108df4705665f5",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 10 BLK 17, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 10 BLK 17, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN; Price PHP 520,000",
+        "location": "LOT 10 BLK 17, NORTHWINDS SUBD., PHASE 4-B, BRGYS. KAYPIAN & STO CRISTO, SAN JOSE DEL MONTE, BULACAN",
+        "price": 520000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035331,
+          14.505816
+        ]
+      },
+      "properties": {
+        "id": "fp_292e5b0074cc9a28fa35eb30647cff4a",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM UNIT at UNIT 314, 3/F ARIA A BLDG., AMAIA STEPS BICUTAN PHASE 1, WEST SERVICE RD. CORNER SUN VALLEYFR., BRGY. SUN VALLEY, PARANAQUE, METRO MANILA For Negotiated Sale",
+        "description": "Condo; Located at UNIT 314, 3/F ARIA A BLDG., AMAIA STEPS BICUTAN PHASE 1, WEST SERVICE RD. CORNER SUN VALLEYFR., BRGY. SUN VALLEY, PARANAQUE, METRO MANILA; Price PHP 3,042,000",
+        "location": "UNIT 314, 3/F ARIA A BLDG., AMAIA STEPS BICUTAN PHASE 1, WEST SERVICE RD. CORNER SUN VALLEYFR., BRGY. SUN VALLEY, PARANAQUE, METRO MANILA",
+        "price": 3042000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_23a9a3e9cfa00c116f9d2d62e5109224",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 36 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 36 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,727,000",
+        "location": "LOT 36 BLK 9, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2727000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_8be528b288df58b41d3dbfa52b1c2f90",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 11 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 11 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 2,520,000",
+        "location": "LOT 11 BLK 26, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 2520000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0475638,
+          39.4781931
+        ]
+      },
+      "properties": {
+        "id": "fp_3de4e940c86b92bee7afa3a632081034",
+        "title": "Bank of Commerce Foreclosed AGRICULTURAL LOT at LOT 2626-F GUINOYORAN, VALENCIA, BUKIDNON (SITE I) For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Agricultural Lot; Located at LOT 2626-F GUINOYORAN, VALENCIA, BUKIDNON (SITE I); Price PHP 2,611,000",
+        "location": "LOT 2626-F GUINOYORAN, VALENCIA, BUKIDNON (SITE I)",
+        "price": 2611000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.562139,
+          -1.272622
+        ]
+      },
+      "properties": {
+        "id": "fp_9f743f932e8bb67c3bfd98e4dec7c1cf",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT WITH IMPROVEMENT at LOT 10, BLK 63, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 10, BLK 63, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON; Price PHP 1,292,000",
+        "location": "LOT 10, BLK 63, PUERTO DEL MAR SUBDIVISION, BRGY. ILAYANG IYAM & BUCOHAN , LUCENA CITY, QUEZON",
+        "price": 1292000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.608995,
+          15.612253
+        ]
+      },
+      "properties": {
+        "id": "fp_61a902f99497c0398368997807afe2e9",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL LOT IMPROVED WITH 1-STOREY (ROWHOUSE) RESIDENTIAL BLDG. at LOT 26 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 26 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC; Price PHP 375,000",
+        "location": "LOT 26 BLK 5, NORTH MANHATTAN EXECUTIVE VILLAS, BRGY. ABAGON, GERONA, TARLAC",
+        "price": 375000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8572845,
+          14.400675
+        ]
+      },
+      "properties": {
+        "id": "fp_c438c9ffce239a140b861d345fe7c4c4",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 4 BLK 72, PHASE 8, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 4 BLK 72, PHASE 8, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE; Price PHP 325,000",
+        "location": "LOT 4 BLK 72, PHASE 8, CARISSA HOMES, BRGYS. BAGTAS AND PUNTA 1, TANZA, CAVITE",
+        "price": 325000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.660372,
+          14.994499
+        ]
+      },
+      "properties": {
+        "id": "fp_559742d82aaf61fd51ecdf282aae7365",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 34, BLK. 1 RIVERA STREET, MARISOL SUBD., BRGY. NINOYAQUINO, ANGELES CITY, PAMPANGA For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Residential Lot; Located at LOT 34, BLK. 1 RIVERA STREET, MARISOL SUBD., BRGY. NINOYAQUINO, ANGELES CITY, PAMPANGA; Price PHP 2,025,000",
+        "location": "LOT 34, BLK. 1 RIVERA STREET, MARISOL SUBD., BRGY. NINOYAQUINO, ANGELES CITY, PAMPANGA",
+        "price": 2025000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898304,
+          10.296323
+        ]
+      },
+      "properties": {
+        "id": "fp_eaf29a4e0c8df64723a714e95dc525b1",
+        "title": "Bank of Commerce Foreclosed Residential Vacant Lot at Lot 53 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu For Negotiated Sale",
+        "description": "Residential Lot; Located at Lot 53 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu; Price PHP 2,678,000",
+        "location": "Lot 53 Blk 3, Villa Illuminada Subd., Brgy., Pajac, Lapu-Lapu City, Cebu",
+        "price": 2678000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.842468,
+          10.471473
+        ]
+      },
+      "properties": {
+        "id": "fp_4d3e77fb8b681766303ab1a2460c97d4",
+        "title": "Bank of Commerce Foreclosed Agricultural Lot at Lot 5-P-2, Sitio Ligaya, Brgy. Pacol, Valladolid, Negros Occidental For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Agricultural Lot; Located at Lot 5-P-2, Sitio Ligaya, Brgy. Pacol, Valladolid, Negros Occidental; Price PHP 571,000",
+        "location": "Lot 5-P-2, Sitio Ligaya, Brgy. Pacol, Valladolid, Negros Occidental",
+        "price": 571000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.01749,
+          14.48156
+        ]
+      },
+      "properties": {
+        "id": "fp_b3014199ec9d482c0cf3a77d2bf9e2bd",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL CONDOMINIUM at UNIT 0306, 3/F RIO BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE RD, BRGY. MARCELO GREEN, PARANAQUE CITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT 0306, 3/F RIO BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE RD, BRGY. MARCELO GREEN, PARANAQUE CITY; Price PHP 4,165,000",
+        "location": "UNIT 0306, 3/F RIO BLDG., AZURE URBAN RESORT RESIDENCES, KM 16, WEST SERVICE RD, BRGY. MARCELO GREEN, PARANAQUE CITY",
+        "price": 4165000.0,
+        "type": "CONDO",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0602085,
+          7.8266851
+        ]
+      },
+      "properties": {
+        "id": "fp_c0cfcd767554ea519e11ec526317afbc",
+        "title": "Bank of Commerce Foreclosed AGRICULTURAL LOT at LOT 776-G-11, PSD-10-045446, BUSCO ROAD, BRGY. DOLOGON, MARAMAG, BUKIDNON For Negotiated Sale",
+        "description": "Agricultural Lot; Located at LOT 776-G-11, PSD-10-045446, BUSCO ROAD, BRGY. DOLOGON, MARAMAG, BUKIDNON; Price PHP 300,000",
+        "location": "LOT 776-G-11, PSD-10-045446, BUSCO ROAD, BRGY. DOLOGON, MARAMAG, BUKIDNON",
+        "price": 300000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "fp_e484da68be72c45727f6443cc80364c6",
+        "title": "Bank of Commerce Foreclosed COMMERCIAL CONDOMINIUM UNIT at UNIT 12-2E, EGI RUFINO PLAZA CONDOMINIUM COMPLEX, TAFT AVE. CORNER SEN. GIL PUYAT AVE & A. LUNA ST., BRGY. STA. CLARA, PASAYCITY For Negotiated Sale",
+        "description": "Condo; Located at UNIT 12-2E, EGI RUFINO PLAZA CONDOMINIUM COMPLEX, TAFT AVE. CORNER SEN. GIL PUYAT AVE & A. LUNA ST., BRGY. STA. CLARA, PASAYCITY; Price PHP 3,059,000",
+        "location": "UNIT 12-2E, EGI RUFINO PLAZA CONDOMINIUM COMPLEX, TAFT AVE. CORNER SEN. GIL PUYAT AVE & A. LUNA ST., BRGY. STA. CLARA, PASAYCITY",
+        "price": 3059000.0,
+        "type": "CONDO",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.848502,
+          14.87016
+        ]
+      },
+      "properties": {
+        "id": "fp_7ebf24239a608c78b0866be929415114",
+        "title": "Bank of Commerce Foreclosed RESIDENTIAL VACANT LOT at LOT 14 BLK 13, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN For Negotiated Sale",
+        "description": "Residential Lot; Located at LOT 14 BLK 13, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN; Price PHP 3,440,000",
+        "location": "LOT 14 BLK 13, PLARIDEL HEIGHTS SUBD., BRGY. LALANGAN, PLARIDEL, BULACAN",
+        "price": 3440000.0,
+        "type": "RESIDENTIAL_LOT",
+        "source": "Bank of Commerce",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.842468,
+          10.471473
+        ]
+      },
+      "properties": {
+        "id": "fp_51c4c9ca003f3492b49ecdc32e161129",
+        "title": "Bank of Commerce Foreclosed Agricultural Lot at Lot 1-I, Sitio Ligaya, Brgy. Pacol, Valladolid, Negros Occidental For Negotiated Sale \u00e2\u0080\u0093 * No Possession",
+        "description": "Agricultural Lot; Located at Lot 1-I, Sitio Ligaya, Brgy. Pacol, Valladolid, Negros Occidental; Price PHP 687,000",
+        "location": "Lot 1-I, Sitio Ligaya, Brgy. Pacol, Valladolid, Negros Occidental",
+        "price": 687000.0,
+        "type": "AGRICULTURAL_LOT",
+        "source": "Pag-IBIG",
+        "status": "AVAILABLE",
+        "lotArea": 0,
+        "floorArea": 0,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "auctionDate": "TBA",
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=400"
+      }
+    }
+  ]
+}
