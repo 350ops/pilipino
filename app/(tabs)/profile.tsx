@@ -1,7 +1,7 @@
 import { View, ImageBackground, Text, TouchableOpacity, Pressable, Image } from 'react-native';
 import Header, { HeaderIcon } from '@/components/Header';
 import ThemedText from '@/components/ThemedText';
-import { useBusinessMode } from '@/app/contexts/BusinesModeContext';
+import { useBusinessMode } from '@/app/contexts/BusinessModeContext';
 import Avatar from '@/components/Avatar';
 import ListLink from '@/components/ListLink';
 import AnimatedView from '@/components/AnimatedView';

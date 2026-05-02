@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-test = []
+test = ["pytest>=8"]
 
 [tool.pytest.ini_options]
 pythonpath = [".."]
