@@ -146,6 +146,7 @@ class ParserTests(unittest.TestCase):
         )
         self.assertEqual(discovered[0].bidding_starts_at.month, 5)
         self.assertEqual(discovered[0].bidding_ends_at.day, 27)
+        self.assertEqual(discovered[0].bidding_starts_at.utcoffset().total_seconds(), 8 * 60 * 60)
 
     def test_listing_payload_serializes_decimal_and_datetime_for_staging(self):
         listing = CanonicalListing(

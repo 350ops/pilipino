@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from decimal import Decimal, InvalidOperation
 from io import BytesIO
 from typing import AsyncIterator, Iterable, Optional
@@ -16,6 +16,7 @@ from scrapers.src.storage import save_snapshot
 
 
 BUENAMANO_URL = "https://www.bpi.com.ph/group/buenamano"
+PHILIPPINES_TZ = timezone(timedelta(hours=8))
 PDF_HREF_RE = re.compile(r'href=["\']([^"\']+\.pdf)["\']', re.I)
 BID_RANGE_RE = re.compile(
     r"Start of bidding:\s*([A-Za-z]+ \d{1,2}, \d{4}) at ([\d:]+ [AP]M) to "
@@ -250,7 +251,7 @@ def _parse_bid_range(html: str) -> Optional[tuple[datetime, datetime]]:
 
 def _parse_bid_datetime(date_text: str, time_text: str) -> datetime:
     parsed = datetime.strptime(f"{date_text} {time_text}", "%B %d, %Y %I:%M %p")
-    return parsed.replace(tzinfo=timezone.utc)
+    return parsed.replace(tzinfo=PHILIPPINES_TZ)
 
 
 def _filename(url: str) -> str:
