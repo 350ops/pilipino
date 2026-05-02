@@ -1,0 +1,17 @@
+[project]
+name = "propia-foreclosure-scrapers"
+version = "0.1.0"
+description = "BDO and BPI Buena Mano foreclosure scraper pipeline for Propia."
+requires-python = ">=3.9"
+dependencies = [
+  "httpx>=0.27",
+  "pdfplumber>=0.11",
+  "playwright>=1.45",
+  "supabase>=2.4",
+]
+
+[project.optional-dependencies]
+test = []
+
+[tool.pytest.ini_options]
+pythonpath = [".."]
